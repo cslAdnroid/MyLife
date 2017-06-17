@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="style_color_primary">#2d5d82</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="paint_color">#dddddd</color>
+    <color name="person_title_bar_bg">#19d78e</color>
+    <color name="buy_normal">#bd4e48</color>
+    <color name="buy_pressed">#752c2c</color>
+    <color name="dark_gray">#FF343535</color>
+    <color name="divider_color">#e6e6e6</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="fill_color">#dfdbdb</color>
+    <color name="bg_list_item_base_product_pressed">#d9d9d9</color>
+    <color name="product_publish_text2">#cbcbcb</color>
+
+
+
+
+</resources>
